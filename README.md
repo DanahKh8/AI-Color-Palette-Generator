@@ -1,6 +1,6 @@
 # 🎨 AI Color Palette Generator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([INSERT YOUR LIVE APP LINK HERE])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-color-palette-generator-rbppny6hpabrcmep4o97aj.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=flat&logo=opencv)
 ![Scikit-Learn](https://img.shields.io/badge/Sklearn-KMeans-orange?style=flat&logo=scikit-learn)
